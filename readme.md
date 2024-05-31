@@ -15,7 +15,7 @@ Para conseguir realizar a execução de cada exercício é necessário ter as se
 
 No terminal, clone a lista:
 ```bash
-    git clone https://github.com/LucasGervasoni/-PraTI_Lista_Tarefas-1.git
+    git clone https://github.com/LucasGervasoni/-PraTI_Lista_Tarefas-2.git
 ```
 
 No terminal, na pasta da lista:
